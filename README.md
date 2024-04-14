@@ -1,4 +1,4 @@
-# WTF-Workshop
+# WTF-My Work
 
 Hello!
 
